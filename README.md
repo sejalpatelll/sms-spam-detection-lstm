@@ -1,4 +1,4 @@
-# CS 4375 Project: SMS Spam Detection Using a From-Scratch LSTM
+# SMS Spam Detection Using a From-Scratch LSTM
 
 ## Group Members
 
